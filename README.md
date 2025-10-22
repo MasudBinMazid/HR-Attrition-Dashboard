@@ -4,6 +4,9 @@
 
 Our people are at the heart of our organization. This project takes a closer look at who is leaving, why they might be leaving, and where we can do better. By turning numbers into stories, we can shape stronger retention strategies, improve employee engagement, and create a better workplace for everyone.
 
+Dashboard:
+
+![HR Dashboard](https://github.com/user-attachments/assets/7e106b3b-a0ff-41df-a402-8c863b8f18bc)
 
 
 👥 The Big Picture
